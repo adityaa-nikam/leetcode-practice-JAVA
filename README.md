@@ -67,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
