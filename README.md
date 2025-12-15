@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0196-delete-duplicate-emails) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0596-classes-with-at-least-5-students](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0596-classes-with-at-least-5-students) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/1978-employees-whose-manager-left-the-company) |
 ## String
