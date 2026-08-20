@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0268-missing-number) |
 | [1512-number-of-good-pairs](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/1512-number-of-good-pairs) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Database
 |  |
@@ -133,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3689-maximum-total-subarray-value-i](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/3689-maximum-total-subarray-value-i) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
