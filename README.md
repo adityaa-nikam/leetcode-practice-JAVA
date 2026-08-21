@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0268-missing-number) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0268-missing-number) |
 ## Sorting
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0125-valid-palindrome) |
 | [0709-to-lower-case](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0709-to-lower-case) |
 ## Divide and Conquer
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0067-add-binary) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Greedy
