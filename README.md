@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0268-missing-number) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -152,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0169-majority-element) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
