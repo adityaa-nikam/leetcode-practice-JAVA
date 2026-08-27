@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0577-employee-bonus) |
 | [0596-classes-with-at-least-5-students](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0596-classes-with-at-least-5-students) |
+| [0620-not-boring-movies](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0620-not-boring-movies) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/1978-employees-whose-manager-left-the-company) |
