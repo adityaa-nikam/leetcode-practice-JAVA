@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0577-employee-bonus) |
 | [0596-classes-with-at-least-5-students](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0620-not-boring-movies) |
+| [1211-queries-quality-and-percentage](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/1211-queries-quality-and-percentage) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/1633-percentage-of-users-attended-a-contest) |
