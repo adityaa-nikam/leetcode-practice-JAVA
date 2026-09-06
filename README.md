@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0268-missing-number) |
 | [0728-self-dividing-numbers](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0728-self-dividing-numbers) |
 | [1512-number-of-good-pairs](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/1512-number-of-good-pairs) |
