@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0342-power-of-four) |
 | [0728-self-dividing-numbers](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0728-self-dividing-numbers) |
 | [1512-number-of-good-pairs](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/1512-number-of-good-pairs) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0342-power-of-four) |
 ## Sorting
 |  |
 | ------- |
@@ -207,4 +209,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
