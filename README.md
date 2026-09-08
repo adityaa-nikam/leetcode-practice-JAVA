@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0412-fizz-buzz) |
 | [0728-self-dividing-numbers](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0728-self-dividing-numbers) |
 | [1512-number-of-good-pairs](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/1512-number-of-good-pairs) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0171-excel-sheet-column-number) |
+| [0412-fizz-buzz](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0709-to-lower-case) |
 ## Divide and Conquer
 |  |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0412-fizz-buzz) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Greedy
