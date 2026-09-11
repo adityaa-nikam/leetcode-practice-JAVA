@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0455-assign-cookies](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0455-assign-cookies) |
 | [0912-sort-an-array](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0912-sort-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/1512-number-of-good-pairs) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0455-assign-cookies) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Math
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0268-missing-number) |
+| [0455-assign-cookies](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0455-assign-cookies) |
 | [0912-sort-an-array](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0912-sort-an-array) |
 ## Prefix Sum
 |  |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0455-assign-cookies) |
 | [3689-maximum-total-subarray-value-i](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/3689-maximum-total-subarray-value-i) |
 ## Memoization
 |  |
@@ -217,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0509-fibonacci-number) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
