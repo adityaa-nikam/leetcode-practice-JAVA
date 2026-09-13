@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0912-sort-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/1512-number-of-good-pairs) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0912-sort-an-array) |
 ## Prefix Sum
 |  |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0912-sort-an-array) |
 ## Simulation
 |  |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0561-array-partition) |
 | [3689-maximum-total-subarray-value-i](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/3689-maximum-total-subarray-value-i) |
 ## Memoization
 |  |
