@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0455-assign-cookies) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0171-excel-sheet-column-number) |
+| [0242-valid-anagram](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0412-fizz-buzz) |
