@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0912-sort-an-array) |
+| [1037-valid-boomerang](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/1037-valid-boomerang) |
 | [1266-minimum-time-visiting-all-points](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1480-running-sum-of-1d-array](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/1512-number-of-good-pairs) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0728-self-dividing-numbers) |
+| [1037-valid-boomerang](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/1037-valid-boomerang) |
 | [1266-minimum-time-visiting-all-points](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1512-number-of-good-pairs](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/1512-number-of-good-pairs) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -253,5 +255,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [1037-valid-boomerang](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/1037-valid-boomerang) |
 | [1266-minimum-time-visiting-all-points](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
